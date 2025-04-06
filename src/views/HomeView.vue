@@ -9,7 +9,7 @@
         <a href="https://github.com/jimanguba" target="_blank" rel="noopener">
           <i class="fab fa-github"></i>
         </a>
-        <a href="/public/resume.pdf" target="_blank" rel="noopener">
+        <a href="/resume.pdf" target="_blank" rel="noopener">
           <i class="fas fa-file-alt"></i>
         </a>
       </div>
