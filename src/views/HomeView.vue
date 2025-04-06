@@ -3,10 +3,10 @@
     <div>
       <VueWriter :array="['Jillian Manguba.']" :typeSpeed="90" />
       <div class="socials">
-        <a href="https://www.linkedin.com/in/yourusername" target="_blank" rel="noopener">
+        <a href="https://www.linkedin.com/in/jillianmanguba" target="_blank" rel="noopener">
           <i class="fab fa-linkedin"></i>
         </a>
-        <a href="https://github.com/yourusername" target="_blank" rel="noopener">
+        <a href="https://github.com/jimanguba" target="_blank" rel="noopener">
           <i class="fab fa-github"></i>
         </a>
         <a href="/path-to-your-resume.pdf" target="_blank" rel="noopener">
