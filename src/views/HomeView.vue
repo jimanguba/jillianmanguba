@@ -3,7 +3,7 @@
     <div>
       <VueWriter :array="arr" />
       <div class="socials">
-        <a href="https://www.linkedin.com/in/jillianmanguba" target="_blank" rel="noopener">
+        <a href="https://www.linkedin.com/in/jillianmanguba24" target="_blank" rel="noopener">
           <i class="fab fa-linkedin"></i>
         </a>
         <a href="https://github.com/jimanguba" target="_blank" rel="noopener">
