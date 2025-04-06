@@ -4,6 +4,8 @@
   "exclude": ["src/**/__tests__/*"],
   "compilerOptions": {
     "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.app.tsbuildinfo",
+    "allowSyntheticDefaultImports": true, // Add this line
+    "esModuleInterop": true,              // Add this line if not already present
 
     "paths": {
       "@/*": ["./src/*"]

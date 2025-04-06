@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div>
-      <VueWriter :array="['Jillian Manguba.']" :typeSpeed="90" />
+      <VueWriter :array="arr" />
       <div class="socials">
         <a href="https://www.linkedin.com/in/jillianmanguba" target="_blank" rel="noopener">
           <i class="fab fa-linkedin"></i>
@@ -18,11 +18,9 @@
 </template>
 
 <script lang="ts">
-import { VueWriter } from 'vue-writer';
-
 export default {
-  components: {
-    VueWriter,
+  data() {
+    return { arr: ["Jillian Manguba"] };
   },
 };
 </script>
